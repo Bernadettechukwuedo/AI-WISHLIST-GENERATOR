@@ -2,7 +2,9 @@ import random
 import numpy as np
 import joblib
 import pandas as pd
+from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent
 df = pd.read_csv(r'recommender/ml/gift_dataset.csv')
 
 clf = joblib.load('recommender/ml/model.pkl')
