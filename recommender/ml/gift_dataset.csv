@@ -1,0 +1,297 @@
+gift_name,category,category_id,gender,min_age,max_age
+Phone,Tech,0,unisex,12,99
+Laptop,Tech,0,unisex,12,99
+Smart Watch,Tech,0,unisex,14,99
+Airpod,Tech,0,unisex,14,99
+Headset,Tech,0,unisex,12,99
+iPad,Tech,0,unisex,8,99
+Bluetooth Speaker,Tech,0,unisex,14,99
+Camera,Tech,0,unisex,14,99
+Power Bank,Tech,0,unisex,14,99
+Ring Light,Tech,0,female,16,99
+Smartwatch Band,Tech,0,unisex,14,99
+Wireless Charger,Tech,0,unisex,14,99
+Portable Projector,Tech,0,unisex,18,99
+Smart Home Speaker,Tech,0,unisex,16,99
+Gaming Chair,Tech,0,male,16,35
+Mechanical Keyboard,Tech,0,unisex,16,99
+USB Hub,Tech,0,unisex,18,99
+External Hard Drive,Tech,0,unisex,16,99
+Noise Cancelling Headphones,Tech,0,unisex,14,99
+E-Reader,Tech,0,unisex,14,99
+Drone,Tech,0,male,16,40
+Smart Bulb Set,Tech,0,unisex,20,99
+Graphics Tablet,Tech,0,unisex,16,99
+Fitness Tracker,Tech,0,unisex,14,99
+Mini Printer,Tech,0,female,14,99
+Gaming Mouse,Tech,0,male,14,35
+Gaming Keyboard,Tech,0,male,14,35
+Monitor,Tech,0,unisex,16,99
+Webcam,Tech,0,unisex,16,99
+Smart TV,Tech,0,unisex,18,99
+Kindle,Tech,0,unisex,14,99
+Selfie Stick,Tech,0,female,14,99
+LED Desk Lamp,Tech,0,unisex,14,99
+Portable Fan,Tech,0,unisex,12,99
+Electric Toothbrush,Tech,0,unisex,12,99
+Smart Scale,Tech,0,unisex,16,99
+Dash Cam,Tech,0,unisex,18,99
+Action Camera,Tech,0,unisex,14,99
+Wireless Earbuds,Tech,0,unisex,14,99
+Tablet Stand,Tech,0,unisex,14,99
+Kids Tablet,Tech,0,unisex,4,10
+Educational Toy Robot,Tech,0,unisex,6,12
+Kids Camera,Tech,0,unisex,5,12
+Interactive Learning Pad,Tech,0,unisex,3,8
+Smart Night Light,Tech,0,unisex,1,10
+Kids Smartwatch,Tech,0,unisex,5,12
+Walkie Talkie,Tech,0,unisex,6,14
+Digital Radio,Tech,0,unisex,50,99
+Large Button Phone,Tech,0,unisex,65,99
+Hearing Aid Accessories,Tech,0,unisex,60,99
+Money,Lifestyle & Assets,1,unisex,16,99
+Car,Lifestyle & Assets,1,unisex,18,99
+House,Lifestyle & Assets,1,unisex,25,99
+Land,Lifestyle & Assets,1,unisex,22,99
+Motorbike,Lifestyle & Assets,1,male,18,99
+Business Capital,Lifestyle & Assets,1,unisex,20,99
+Rent Payment,Lifestyle & Assets,1,unisex,20,99
+School Fees Payment,Lifestyle & Assets,1,unisex,14,25
+Investment Account,Lifestyle & Assets,1,unisex,18,99
+Savings Contribution,Lifestyle & Assets,1,unisex,16,99
+Gym Membership,Lifestyle & Assets,1,unisex,16,99
+Driving Lessons,Lifestyle & Assets,1,unisex,17,25
+Online Course Payment,Lifestyle & Assets,1,unisex,16,99
+Visa Application Support,Lifestyle & Assets,1,unisex,18,99
+Professional Certification Fee,Lifestyle & Assets,1,unisex,20,99
+Bicycle,Lifestyle & Assets,1,unisex,10,40
+Generator,Lifestyle & Assets,1,unisex,22,99
+Washing Machine,Lifestyle & Assets,1,unisex,22,99
+Fridge,Lifestyle & Assets,1,unisex,22,99
+Office Chair,Lifestyle & Assets,1,unisex,20,99
+Air Conditioner,Lifestyle & Assets,1,unisex,22,99
+Microwave,Lifestyle & Assets,1,unisex,18,99
+Blender,Lifestyle & Assets,1,unisex,18,99
+Life Insurance Payment,Lifestyle & Assets,1,unisex,25,99
+Health Insurance Payment,Lifestyle & Assets,1,unisex,20,99
+Electricity Bill Payment,Lifestyle & Assets,1,unisex,20,99
+Internet Subscription,Lifestyle & Assets,1,unisex,16,99
+Kids Piggy Bank,Lifestyle & Assets,1,unisex,3,12
+Kids Savings Account,Lifestyle & Assets,1,unisex,5,15
+School Supplies Pack,Lifestyle & Assets,1,unisex,5,18
+Tricycle,Lifestyle Tricycle,1,unisex,1,6
+Kids Bicycle,Lifestyle & Assets,1,unisex,4,12
+Pension Contribution,Lifestyle & Assets,1,unisex,40,99
+Medical Checkup Payment,Lifestyle & Assets,1,unisex,40,99
+Walking Aid,Lifestyle & Assets,1,unisex,65,99
+Wheelchair,Lifestyle & Assets,1,unisex,60,99
+Wigs,Beauty & Fashion,2,female,16,99
+Hair Styling Tools,Beauty & Fashion,2,female,14,99
+Heels,Beauty & Fashion,2,female,16,99
+Sandals,Beauty & Fashion,2,female,14,99
+Sneakers,Beauty & Fashion,2,unisex,10,99
+Jeans and Tops,Beauty & Fashion,2,female,12,99
+Joggers and Tops,Beauty & Fashion,2,unisex,12,99
+Gowns,Beauty & Fashion,2,female,14,99
+Clothes,Beauty & Fashion,2,unisex,5,99
+Makeup Kit,Beauty & Fashion,2,female,14,99
+Lipgloss,Beauty & Fashion,2,female,12,99
+Skincare,Beauty & Fashion,2,female,14,99
+Accessories,Beauty & Fashion,2,female,14,99
+Jewelries,Beauty & Fashion,2,female,14,99
+Perfumes,Beauty & Fashion,2,unisex,14,99
+Handbag,Beauty & Fashion,2,female,14,99
+Hair Kit,Beauty & Fashion,2,female,12,99
+Wristwatch,Beauty & Fashion,2,unisex,16,99
+Cap,Beauty & Fashion,2,male,10,99
+Hair Bonnet,Beauty & Fashion,2,female,12,99
+Body Scrub,Beauty & Fashion,2,female,14,99
+Perfume Gift Set,Beauty & Fashion,2,unisex,16,99
+Nail Kit,Beauty & Fashion,2,female,14,99
+Sunglasses,Beauty & Fashion,2,unisex,12,99
+Belt,Beauty & Fashion,2,male,14,99
+Wallet,Beauty & Fashion,2,unisex,16,99
+Body Lotion Set,Beauty & Fashion,2,female,14,99
+Agbada,Beauty & Fashion,2,male,18,99
+Native Gown,Beauty & Fashion,2,female,16,99
+Corporate Shirts,Beauty & Fashion,2,male,20,99
+Gym Wear,Beauty & Fashion,2,unisex,14,99
+Ankara Outfit,Beauty & Fashion,2,unisex,10,99
+Slippers,Beauty & Fashion,2,unisex,1,99
+Face Mask Set,Beauty & Fashion,2,female,14,99
+Hair Growth Oil,Beauty & Fashion,2,female,14,99
+Eyeshadow Palette,Beauty & Fashion,2,female,16,99
+Cologne,Beauty & Fashion,2,male,16,99
+Backpack,Beauty & Fashion,2,unisex,5,99
+Suit,Beauty & Fashion,2,male,20,99
+Dress Shoes,Beauty & Fashion,2,male,18,99
+Tote Bag,Beauty & Fashion,2,female,14,99
+Baby Outfit Set,Beauty & Fashion,2,unisex,1,3
+Kids Clothing Set,Beauty & Fashion,2,unisex,1,10
+Kids Shoes,Beauty & Fashion,2,unisex,1,12
+Kids Accessories,Beauty & Fashion,2,unisex,3,12
+Kids Cap,Beauty & Fashion,2,unisex,1,10
+Older Adult Cardigan,Beauty & Fashion,2,unisex,55,99
+Comfortable Flat Shoes,Beauty & Fashion,2,female,50,99
+Traditional Attire,Beauty & Fashion,2,unisex,18,99
+Letters,Leisure & Sentiment,3,unisex,16,99
+Writeup,Leisure & Sentiment,3,unisex,16,99
+Picture Frame,Leisure & Sentiment,3,unisex,5,99
+Photo Album,Leisure & Sentiment,3,unisex,10,99
+Vacation with Family,Leisure & Sentiment,3,unisex,18,99
+Scrapbook,Leisure & Sentiment,3,unisex,16,99
+Custom Portrait,Leisure & Sentiment,3,unisex,16,99
+Memory Box,Leisure & Sentiment,3,unisex,18,99
+Framed Family Photo,Leisure & Sentiment,3,unisex,18,99
+Books,Leisure & Sentiment,3,unisex,8,99
+Novel,Leisure & Sentiment,3,unisex,12,99
+Self-Help Book,Leisure & Sentiment,3,unisex,18,99
+Children Story Book,Leisure Children Story Book,3,unisex,1,12
+Devotional,Leisure & Sentiment,3,unisex,14,99
+Journal,Leisure & Sentiment,3,unisex,14,99
+Comic Book,Leisure & Sentiment,3,unisex,8,18
+Greeting Card,Leisure & Sentiment,3,unisex,1,99
+Personalised Mug,Leisure & Sentiment,3,unisex,16,99
+Custom Keychain,Leisure & Sentiment,3,unisex,14,99
+Vision Board Kit,Leisure & Sentiment,3,unisex,16,99
+Personalised Calendar,Leisure & Sentiment,3,unisex,16,99
+Bible,Leisure & Sentiment,3,unisex,10,99
+Motivational Book,Leisure & Sentiment,3,unisex,18,99
+Autobiography,Leisure & Sentiment,3,unisex,20,99
+Puzzle Book,Leisure & Sentiment,3,unisex,12,99
+Colouring Book,Leisure & Sentiment,3,unisex,3,14
+Personalised Bracelet,Leisure & Sentiment,3,female,14,99
+Custom Phone Case,Leisure & Sentiment,3,unisex,14,99
+Personalised Tshirt,Leisure & Sentiment,3,unisex,8,99
+Spa Day Voucher,Leisure & Sentiment,3,female,18,99
+Concert Ticket,Leisure & Sentiment,3,unisex,16,99
+Personalised Notebook,Leisure & Sentiment,3,unisex,10,99
+Star Map Print,Leisure & Sentiment,3,unisex,18,99
+Baby Memory Book,Leisure & Sentiment,3,unisex,1,3
+Baby Handprint Kit,Leisure & Sentiment,3,unisex,1,3
+Kids Storybook Set,Leisure & Sentiment,3,unisex,3,10
+Kids Activity Book,Leisure & Sentiment,3,unisex,3,10
+Kids Personalised Book,Leisure & Sentiment,3,unisex,1,10
+Retirement Memory Book,Leisure & Sentiment,3,unisex,55,99
+Faith and Prayer Book,Leisure & Sentiment,3,unisex,50,99
+Family Tree Print,Leisure & Sentiment,3,unisex,40,99
+Grandparent Photo Book,Leisure & Sentiment,3,unisex,50,99
+Life Story Journal,Leisure & Sentiment,3,unisex,60,99
+Gaming Console,Entertainment,4,male,10,25
+Video Games,Entertainment,4,male,10,25
+Toys,Entertainment,4,unisex,1,11
+Cartoon Outfit,Entertainment,4,unisex,1,11
+Board Game,Entertainment,4,unisex,5,18
+Lego Set,Entertainment,4,unisex,4,14
+Action Figure,Entertainment,4,male,3,12
+Doll,Entertainment,4,female,1,12
+Puzzle,Entertainment,4,unisex,3,14
+Remote Control Toy,Entertainment,4,male,4,14
+Card Game,Entertainment,4,unisex,8,99
+Karaoke Machine,Entertainment,4,unisex,10,99
+VR Headset,Entertainment,4,male,14,35
+Cinema Tickets,Entertainment,4,unisex,8,99
+Escape Room Experience,Entertainment,4,unisex,14,99
+Trampoline,Entertainment,4,unisex,3,16
+Kite,Entertainment,4,unisex,4,14
+Drawing Set,Entertainment,4,unisex,3,16
+Musical Instrument,Entertainment,4,unisex,6,99
+Badminton Set,Entertainment,4,unisex,8,30
+Scrabble,Entertainment,4,unisex,10,99
+Chess Set,Entertainment,4,unisex,8,99
+Monopoly,Entertainment,4,unisex,8,99
+Table Tennis Set,Entertainment,4,unisex,8,99
+Football,Entertainment,4,male,4,30
+Basketball,Entertainment,4,male,6,30
+Tennis Racket,Entertainment,4,unisex,8,30
+Baby Rattle,Entertainment,4,unisex,1,2
+Baby Soft Toy,Entertainment,4,unisex,1,3
+Baby Play Mat,Entertainment,4,unisex,1,2
+Baby Musical Mobile,Entertainment,4,unisex,1,2
+Shape Sorter Toy,Entertainment,4,unisex,1,4
+Stacking Rings Toy,Entertainment,4,unisex,1,3
+Push Along Toy,Entertainment,4,unisex,1,4
+Sand and Water Play Set,Entertainment,4,unisex,1,8
+Ride On Car,Entertainment,4,unisex,1,6
+Swing Set,Entertainment,4,unisex,1,10
+Slide,Entertainment,4,unisex,1,8
+Jigsaw Puzzle Set,Entertainment,4,unisex,3,99
+Science Kit,Entertainment,4,unisex,8,16
+Magic Kit,Entertainment,4,unisex,6,14
+Nerf Gun,Entertainment,4,male,6,16
+Gardening Kit,Entertainment,4,unisex,55,99
+Bird Watching Kit,Entertainment,4,unisex,50,99
+Knitting Set,Entertainment,4,female,45,99
+Crossword Puzzle Book,Entertainment,4,unisex,50,99
+Dominoes Set,Entertainment,4,unisex,40,99
+Cake,Consumables,5,unisex,1,99
+Snacks,Consumables,5,unisex,1,99
+Chocolate,Consumables,5,unisex,3,99
+Home-cooked Meal,Consumables,5,unisex,1,99
+Cupcakes,Consumables,5,unisex,1,99
+Candy,Consumables,5,unisex,1,99
+Fruit Basket,Consumables,5,unisex,5,99
+Ice Cream,Consumables,5,unisex,1,99
+Cookies,Consumables,5,unisex,1,99
+Drinks,Consumables,5,unisex,5,99
+Smoothie Pack,Consumables,5,unisex,8,99
+Protein Shake,Consumables,5,unisex,16,40
+Zobo Drink Set,Consumables,5,unisex,8,99
+Chin Chin Pack,Consumables,5,unisex,3,99
+Puff Puff Pack,Consumables,5,unisex,3,99
+Juice Hamper,Consumables,5,unisex,5,99
+Food Hamper,Consumables,5,unisex,10,99
+Suya Pack,Consumables,5,unisex,12,99
+Small Chops Pack,Consumables,5,unisex,10,99
+Yoghurt Pack,Consumables,5,unisex,3,99
+Popcorn Set,Consumables,5,unisex,3,99
+Granola Pack,Consumables,5,unisex,8,99
+Honey Gift Set,Consumables,5,unisex,8,99
+Herbal Tea Set,Consumables,5,unisex,14,99
+Coffee Gift Set,Consumables,5,unisex,18,99
+Vitamin Pack,Consumables,5,unisex,14,99
+Biscuit Hamper,Consumables,5,unisex,1,99
+Plantain Chips Pack,Consumables,5,unisex,6,99
+Baby Formula,Consumables,5,unisex,1,2
+Baby Snack Pack,Consumables,5,unisex,1,4
+Baby Fruit Puree Set,Consumables,5,unisex,1,3
+Kids Juice Pack,Consumables,5,unisex,1,10
+Kids Snack Box,Consumables,5,unisex,1,12
+Noodles Hamper,Consumables,5,unisex,6,99
+Rice and Stew Pack,Consumables,5,unisex,8,99
+Peanut Butter Set,Consumables,5,unisex,6,99
+Herbal Supplement Pack,Consumables,5,unisex,40,99
+Immune Booster Pack,Consumables,5,unisex,40,99
+Energy Drink Pack,Consumables,5,male,16,35
+Mineral Water Hamper,Consumables,5,unisex,8,99
+Baby Towel Set,Beauty & Fashion,2,unisex,1,3
+Baby Body Wash Set,Beauty & Fashion,2,unisex,1,3
+Baby Lotion Set,Beauty & Fashion,2,unisex,1,3
+Kids Towel,Beauty & Fashion,2,unisex,1,12
+Bath Towel Set,Beauty & Fashion,2,unisex,10,99
+Baby Bathrobe,Beauty & Fashion,2,unisex,1,4
+Baby Skincare Set,Beauty & Fashion,2,unisex,1,3
+Kids Bathrobe,Beauty & Fashion,2,unisex,3,12
+Painting Set,Entertainment,4,unisex,3,99
+Watercolour Kit,Entertainment,4,unisex,4,99
+Acrylic Paint Set,Entertainment,4,unisex,10,99
+Canvas and Easel,Entertainment,4,unisex,8,99
+Kids Paint Set,Entertainment,4,unisex,1,10
+Finger Paint Set,Entertainment,4,unisex,1,6
+Craft Kit,Entertainment,4,unisex,4,14
+Board Games Pack,Entertainment,4,unisex,5,99
+Card Games Pack,Entertainment,4,unisex,6,99
+Strategy Game,Entertainment,4,unisex,12,99
+Word Game,Entertainment,4,unisex,8,99
+Memory Game,Entertainment,4,unisex,3,10
+Storytelling Cards,Leisure & Sentiment,3,unisex,1,10
+Bedtime Story Book,Leisure & Sentiment,3,unisex,1,6
+Audiobook Subscription,Leisure & Sentiment,3,unisex,18,99
+Story Reading Session,Leisure & Sentiment,3,unisex,1,8
+Interactive Story Book,Leisure & Sentiment,3,unisex,1,6
+Classic Fairy Tales Book,Leisure & Sentiment,3,unisex,1,10
+Baby Porridge Pack,Consumables,5,unisex,1,2
+Baby Cereal Pack,Consumables,5,unisex,1,2
+Toddler Meal Pack,Consumables,5,unisex,1,4
+Kids Healthy Snack Box,Consumables,5,unisex,1,10
+Fruit Puree Pack,Consumables,5,unisex,1,3
