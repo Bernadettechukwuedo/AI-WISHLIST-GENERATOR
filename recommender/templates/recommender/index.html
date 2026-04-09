@@ -23,8 +23,8 @@
             {% csrf_token %}
             
             {% if error %}
-            <div class="p-4 mb-4 text-sm text-fg-danger-strong rounded-base bg-[#441306]" role="alert">
-            <span class="font-medium text-[#FFB85D]">Warning alert!</span> {{ error }}
+            <div class="p-4 mb-4 text-sm text-fg-danger-strong rounded-md bg-[#441306] text-[#FFB85D]" role="alert">
+            <span class="font-medium ">Warning alert!</span> {{ error }}
             </div>
             {% endif %}
             <!--age-->

@@ -17,7 +17,8 @@ def index(request):
                 error = "Limit must be between 1 and 10"
             elif not gender:
                 error = "Please select a gender"
-
+            elif not category:
+                error = "Please select one or more category"
             if not error:
                 result = generate_wishlist(age_int,gender,category,limit_int)
                 return render(request, 'recommender/results.html',{'result':result})
