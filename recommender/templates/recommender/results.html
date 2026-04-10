@@ -22,10 +22,28 @@
     <div class="flex flex-col mt-5 gap-3">
         {% for gift in result %}
             <div class="rounded-xl border-2 p-4  bg-[#FDFCFB] ">
-            <h3 class="font-semibold text-black">{{ gift.gift_name }}</h3>
+                <div class="flex flex-row gap-2">
+                    {% if gift.category == 'Tech' %}
+                        <span>💻</span>
+                    {% elif gift.category == 'Beauty & Fashion' %}
+                        <span>💄</span>
+                    {% elif gift.category == 'Lifestyle & Assets' %}
+                        <span>🏠</span>
+                    {% elif gift.category == 'Leisure & Sentiment' %}
+                        <span>📚</span>
+                    {% elif gift.category == 'Entertainment' %}
+                        <span>🎮</span>
+                    {% else %}
+                        <span>🍫</span>
+                    {% endif %}
+
+                <h3 class="font-semibold text-black">{{ gift.gift_name }}</h3>
+                </div>
+           
             <span class="inline-block mt-2 text-xs font-medium text-[#EB6E72] bg-[#FBEDEB] px-2 py-0.5 rounded-full">
-                {{ gift.category}}
+                {{ gift.category }}
             </span>
+       
             </div>
         {% endfor %}
     </div>  
